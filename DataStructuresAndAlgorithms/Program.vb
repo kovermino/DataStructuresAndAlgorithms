@@ -2,7 +2,7 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        TestBubbleSort()
+        AdvancedTopSortTest()
     End Sub
 
     Public Sub CallByValue(ByVal p As Person)
